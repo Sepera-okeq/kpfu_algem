@@ -85,5 +85,5 @@
 
 2\.  Задача
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 
