@@ -14,3 +14,4 @@
 * [Билет 8](bilety/bilet-8.md)
 * [Билет 9](bilety/bilet-9.md)
 * [Билет 13](bilety/bilet-13.md)
+* [Билет 16](bilety/bilet-16.md)
