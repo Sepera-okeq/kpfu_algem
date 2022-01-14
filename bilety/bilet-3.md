@@ -37,3 +37,7 @@
 ![](<../.gitbook/assets/image (35).png>)
 
 ![](<../.gitbook/assets/image (26).png>)
+
+### Практика. Задачи.
+
+![](<../.gitbook/assets/image (44).png>)
