@@ -14,7 +14,7 @@
 
 ![](<../.gitbook/assets/image (95).png>)
 
-![](<../.gitbook/assets/image (84).png>)
+![](<../.gitbook/assets/image (84) (1).png>)
 
 Короче говоря, геометрический смысл векторного произведения заключается в том, что длина(модуль) векторного произведения численно равна площади параллелограмма, построенного на векторах a и b как на сторонах.
 
@@ -22,11 +22,11 @@
 
 ![](<../.gitbook/assets/image (48).png>)
 
-![](<../.gitbook/assets/image (94).png>)
+![](<../.gitbook/assets/image (94) (1).png>)
 
-![](<../.gitbook/assets/image (77).png>)
+![](<../.gitbook/assets/image (77) (1).png>)
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (30) (1).png>)
 
 ![](<../.gitbook/assets/image (101).png>)
 
