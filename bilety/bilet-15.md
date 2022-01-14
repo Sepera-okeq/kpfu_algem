@@ -36,4 +36,4 @@
 
 1. Задача
 
-![](<../.gitbook/assets/image (64).png>)
+![](<../.gitbook/assets/image (64) (1).png>)

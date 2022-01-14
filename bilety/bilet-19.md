@@ -27,7 +27,7 @@
 
 * **Сложение -** Суммой матриц ![](<../.gitbook/assets/image (36).png>) одинакового размера называется матрица ![](<../.gitbook/assets/image (5).png>) того же размера элементы которой
 
-&#x20;![](<../.gitbook/assets/image (49).png>)
+&#x20;![](<../.gitbook/assets/image (49) (1).png>)
 
 **Свойства сложения:**
 
@@ -81,7 +81,7 @@
 
 1. Задача
 
-![](<../.gitbook/assets/image (100).png>)
+![](<../.gitbook/assets/image (100) (1).png>)
 
 2\.  Задача
 
