@@ -12,17 +12,15 @@ __$$Ax + By + Cz + D = 0,$$__
 
 ![](<../.gitbook/assets/image (50).png>)
 
-&#x20;           При любом уравнение
+&#x20;           При любом $$λ≠0$$ уравнение
 
-&#x20;
-
-&#x20;
+&#x20;$$(λA)x+(λB)y+(λC)z+λD=0$$
 
 определяет ту же плоскость, то есть общее уравнение плоскости не единственно.
 
 _**2.     Тригонометрическая форма комплексного числа, действия над комплексными числами в тригонометрической форме.**_
 
-Аргументом комплексного числа ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image014.png) называется величина угла между положительным направлением действительной оси и вектором![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image016.png). Величина угла положительная - отчет ведется против часовой стрелки; отрицательная - по часовой стрелке.
+Аргументом комплексного числа $$z≠0$$ называется величина угла между положительным направлением действительной оси и вектором![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image016.png). Величина угла положительная - отчет ведется против часовой стрелки; отрицательная - по часовой стрелке.
 
 Аргумент комплексного угла неоднозначен. Любые два аргумента комплексного числа отличаются на число, кратное ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image018.png). Для обозначения всех аргументов комплексного числа ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image020.png)используется обозначение![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image022.png). Через φ обозначают главное значение аргумента в промежутке ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image024.png). Аргумент комплексного числа ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image026.png) не определен.
 
