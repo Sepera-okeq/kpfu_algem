@@ -52,7 +52,7 @@
 
 ![](<../.gitbook/assets/image (70).png>)
 
-**Расстояние между точками** ![](<../.gitbook/assets/image (55).png>)  равно:&#x20;
+**Расстояние между точками** ![](<../.gitbook/assets/image (55) (1).png>)  равно:&#x20;
 
 ![](<../.gitbook/assets/image (65).png>)
 
