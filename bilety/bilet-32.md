@@ -63,3 +63,13 @@ $$z^n=(r(cos⁡φ+ i *sin⁡φ ))^n= r^n (cos⁡(nφ)+ i *sin⁡(nφ))$$
 5\)    $$ω$$ – корень из числа z, если $$ω^n=z.$$ Если z ≠ 0, то существует n корней из числа z, полученных из формулы:
 
 &#x20;$$ω_k=\sqrt[n]z = \sqrt[n]z * (cos⁡ (φ+2πk)/n +i * sin⁡(φ+2πk)/n )$$$$,k=0,1,2,… , n-1$$
+
+### Практика. Задачи
+
+![](<../.gitbook/assets/image (102).png>)
+
+![](<../.gitbook/assets/image (74).png>)
+
+![](<../.gitbook/assets/image (47).png>)
+
+![](<../.gitbook/assets/image (80).png>)

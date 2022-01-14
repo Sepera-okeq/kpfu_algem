@@ -36,4 +36,4 @@
 
 ### Практика. Задачи.
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28) (1).png>)
