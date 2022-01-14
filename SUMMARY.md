@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Стартовая страница](README.md)
 
 ## Group 1
 
