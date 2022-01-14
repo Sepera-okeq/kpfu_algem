@@ -21,6 +21,7 @@
 * [Билет 15](bilety/bilet-15.md)
 * [Билет 16](bilety/bilet-16.md)
 * [Билет 17](bilety/bilet-17.md)
+* [Билет 18](bilety/bilet-18.md)
 * [Билет 19](bilety/bilet-19.md)
 * [Билет 20](bilety/bilet-20.md)
 * [Билет 21](bilety/bilet-21.md)
