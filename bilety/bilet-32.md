@@ -20,54 +20,46 @@ __$$Ax + By + Cz + D = 0,$$__
 
 _**2.     Тригонометрическая форма комплексного числа, действия над комплексными числами в тригонометрической форме.**_
 
-Аргументом комплексного числа $$z≠0$$ называется величина угла между положительным направлением действительной оси и вектором![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image016.png). Величина угла положительная - отчет ведется против часовой стрелки; отрицательная - по часовой стрелке.
+Аргументом комплексного числа $$z≠0$$ называется величина угла между положительным направлением действительной оси и вектором $$\vec{z}$$. Величина угла положительная - отчет ведется против часовой стрелки; отрицательная - по часовой стрелке.
 
-Аргумент комплексного угла неоднозначен. Любые два аргумента комплексного числа отличаются на число, кратное ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image018.png). Для обозначения всех аргументов комплексного числа ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image020.png)используется обозначение![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image022.png). Через φ обозначают главное значение аргумента в промежутке ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image024.png). Аргумент комплексного числа ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image026.png) не определен.
+Аргумент комплексного угла неоднозначен. Любые два аргумента комплексного числа отличаются на число, кратное $$2π.$$ Для обозначения всех аргументов комплексного числа $$z$$используется обозначение $$arg⁡(z)$$. Через φ обозначают главное значение аргумента в промежутке $$(-π, π]$$. Аргумент комплексного числа $$z=0=0+0i$$ не определен.
 
-Аргумент комплексного числа ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image028.png) можно найти по формулам:
+Аргумент комплексного числа $$z=a+bi$$ можно найти по формулам:
 
-![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image030.png)
+![](<../.gitbook/assets/image (82).png>)
 
-Аргумент комплексного числа ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image028.png) можно так же найти из следующего уравнения:
+Аргумент комплексного числа $$z=a+bi$$ можно так же найти из следующего уравнения:
 
-![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image032.png)
+$$tg φ=  b/a$$
 
 Из этой формулы находим:
 
-![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image035.png)
+![](<../.gitbook/assets/image (72).png>)
 
-&#x20;
+Каждое комплексное число $$z=a+bi$$, отличное от нуля, может быть записано в виде
 
-Каждое комплексное число ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image037.png), отличное от нуля, может быть записано в виде
+&#x20;$$z=r(cos⁡φ+i*sin(⁡φ)),$$
 
-&#x20;
-
-![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image039.png),
-
-&#x20;           __            где r – модуль числа, ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image041.png) – любой из его аргументов. Эта форма записи называется тригонометрической.
+&#x20;           __            где r – модуль числа, $$φ$$ – любой из его аргументов. Эта форма записи называется тригонометрической.
 
 Действия над числами в тригонометрической форме:
 
-1\)     Два числа равны тогда и только тогда, когда:
+1\) Два числа равны тогда и только тогда, когда:
 
-![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image043.png)
+$$r_1=r_2,φ_1= φ_2+2πk,k∈Z$$
 
-2\)     Умножение:
+2\) Умножение:
 
-![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image045.png)
+&#x20;$$z_1 z_(2 )= r_1 r_2 (cos⁡(φ_1+φ_2 )+i*sin⁡(φ_1-φ_2))$$
 
-&#x20;
+3\) Деление:
 
-3\)     Деление:
+$$z_1/z_2 =  r_1/r_2  *(cos⁡(φ_1-φ_2 )+i *sin⁡(φ_1-φ_2))$$
 
-![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image047.png)
+4\) Возведение в степень:
 
-4\)     Возведение в степень:
+$$z^n=(r(cos⁡φ+ i *sin⁡φ ))^n= r^n (cos⁡(nφ)+ i *sin⁡(nφ))$$
 
-![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image049.png)
+5\)    $$ω$$ – корень из числа z, если $$ω^n=z.$$ Если z ≠ 0, то существует n корней из числа z, полученных из формулы:
 
-5\)    ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image051.png) – корень из числа z, если ![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image053.png). Если z ≠ 0, то существует n корней из числа z, полученных из формулы:
-
-&#x20;
-
-![](file:///C:/Users/seper/AppData/Local/Packages/oice\_16\_974fa576\_32c1d314\_12ca/AC/Temp/msohtmlclip1/01/clip\_image055.png)
+&#x20;$$ω_k=\sqrt[n]z = \sqrt[n]z * (cos⁡ (φ+2πk)/n +i * sin⁡(φ+2πk)/n )$$$$,k=0,1,2,… , n-1$$
