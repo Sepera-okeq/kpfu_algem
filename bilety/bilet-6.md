@@ -22,3 +22,62 @@
 $$
 \begin{aligned} A· X=B&\implies X=A^{-1}·B\\ X·A=B&\implies X=B·A^{-1}\\ A·X·C=B&\implies X=A^{-1}·B·C^{-1} \end{aligned}
 $$
+
+### Уравнение прямой, проходящей через две точки. Переход от этих уравнений к общему уравнению прямой и обратно.
+
+Уравнение прямой, проходящей через две точки $$M_1(x_1,y_1,z_1)$$ и $$M_2(x_2,y_2,z_2)$$, выглядит так:
+
+$$
+\frac{x-x_1}{x_2-x_1}=\frac{y-y_1}{y_2-y_1}=\frac{z-z_1}{z_2-z_1}
+$$
+
+Общее уравнение прямой выглядит так:
+
+$$
+Ax+By+Cz+D=0
+$$
+
+### Практика. Задачи
+
+1. Задача.
+
+Дано:
+
+$$
+\begin{array}{l} V=5\\ A(2,1,-1)\\ B(3,0,1)\\ C(2,-1,3)\\ D\sub Oy\implies D(0,a,0) \end{array}
+$$
+
+Тетраэдр — пирамида, направляемая векторами $$\vec{AB},\vec{AC},\vec{AD}$$. Найдём их координаты, вычтя из координат точек конца координаты точек начала:
+
+$$
+\begin{array}{l} \vec{AB}=\{1,-1,2\}\\ \vec{AC}=\{0,-2,4\}\\ \vec{AD}=\{-2,a-1,1\} \end{array}
+$$
+
+Известно, что
+
+$$
+V=\frac{1}{6}|(\vec{AB},\vec{AC},\vec{AD})|
+$$
+
+Подставляем, считаем:
+
+$$
+\begin{array}{l} 5=\frac{1}{6} \begin{vmatrix} 1&-1&2\\ 0&-2&4\\ -2&a-1&1 \end{vmatrix}\\ 5=\frac{1}{6}(4a+2)\\ 30=4a+2\\ 28=4a\\ a=\frac{28}{4}=7 \end{array}
+$$
+
+Итоговые координаты вершины: $$D(0,7,0)$$.
+
+2\. Задача.
+
+
+
+$$
+\Bigg[ \begin{array}{l} \begin{cases} -a+2b=0\\ 2a+5b=-5\\ \end{cases}\\ \begin{cases} -5a=0\\ b=-5 \end{cases} \end{array} \iff \Bigg[ \begin{array}{l} \begin{cases} a=2b\\ 9b=-5 \end{cases}\\ \begin{cases} a=0\\ b=-5 \end{cases} \end{array} \iff \Bigg[ \begin{array}{l} \begin{cases} a=\frac{-10}{9}\\ b=\frac{-5}{9} \end{cases}\\ \begin{cases} a=0\\ b=-5 \end{cases} \end{array}
+$$
+
+Получаем два числа:
+
+* $$z_1=\frac{-10}{9}+\frac{-5}{9}i$$
+* $$z_2=-5i$$
+
+Похоже, что они **неправильные**.\
