@@ -44,7 +44,7 @@
 
 Каждый **вектор** ![](<../.gitbook/assets/image (94).png>) равен сумме произведений трех основных векторов на соответствующие координаты вектора ![](<../.gitbook/assets/image (94).png>):&#x20;
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 
 
