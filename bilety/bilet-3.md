@@ -24,7 +24,7 @@ _****_
 
 ![](<../.gitbook/assets/image (35).png>)
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 ### Практика. Задачи.
 
