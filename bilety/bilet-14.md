@@ -12,7 +12,7 @@
 
 Также можно воспользоваться формулой: ($$\vec{a}; \vec{b}$$) =x1x2+y1y2+z1z2:
 
-![](<../.gitbook/assets/image (95).png>)
+![](<../.gitbook/assets/image (95) (1).png>)
 
 ![](<../.gitbook/assets/image (84) (1).png>)
 
@@ -26,7 +26,7 @@
 
 ![](<../.gitbook/assets/image (77) (1).png>)
 
-![](<../.gitbook/assets/image (30) (1).png>)
+![](<../.gitbook/assets/image (30) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (101).png>)
 

@@ -22,7 +22,7 @@ $$a_1a_1 + a_2a_2 +...+a_ma_m = θ$$
 
 ![](<../.gitbook/assets/image (36).png>)
 
-![](<../.gitbook/assets/image (74).png>)
+![](<../.gitbook/assets/image (75).png>)
 
 ### Практика. Задачи.
 
