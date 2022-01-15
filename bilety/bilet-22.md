@@ -90,6 +90,6 @@ __$$(a_1 + b_1i)(a_2 + b_2i) = a_1a_2 − b_1b_2 + (a_1b_2 + b_1a_2)i$$_._&#x20;
 
 2\) Задача
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 ![](<../.gitbook/assets/image (81) (1).png>)
