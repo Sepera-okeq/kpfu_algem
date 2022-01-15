@@ -4,7 +4,7 @@
 
 ![](<../.gitbook/assets/image (94).png>)
 
-![](<../.gitbook/assets/image (67).png>)
+![](<../.gitbook/assets/image (67) (1).png>)
 
 ### Возведение комплексных чисел в степень. Формула Муавра
 

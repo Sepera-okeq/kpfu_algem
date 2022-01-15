@@ -10,7 +10,7 @@
 
 ![](<../.gitbook/assets/image (81).png>)
 
-![](<../.gitbook/assets/image (46).png>)
+![](<../.gitbook/assets/image (46) (1).png>)
 
 ### Практика. Задачи.
 

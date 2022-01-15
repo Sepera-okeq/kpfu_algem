@@ -28,9 +28,9 @@ k) Вычислять (если они существуют) миноры k-го
 
 &#x20;
 
-![](<../.gitbook/assets/image (71).png>)
+![](<../.gitbook/assets/image (71) (1).png>)
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 ![](<../.gitbook/assets/image (16).png>)
 
