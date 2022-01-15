@@ -22,4 +22,4 @@
 
 ### Практика. Задачи.
 
-![](<../.gitbook/assets/image (68) (1).png>)
+![](<../.gitbook/assets/image (68) (1) (1).png>)
