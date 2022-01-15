@@ -68,7 +68,7 @@ $$z^n=(r(cos⁡φ+ i *sin⁡φ ))^n= r^n (cos⁡(nφ)+ i *sin⁡(nφ))$$
 
 ![](<../.gitbook/assets/image (102).png>)
 
-![](<../.gitbook/assets/image (74).png>)
+![](<../.gitbook/assets/image (74) (1).png>)
 
 ![](<../.gitbook/assets/image (47).png>)
 
