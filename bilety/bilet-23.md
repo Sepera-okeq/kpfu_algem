@@ -10,19 +10,19 @@
 
 ### Понятия алгебраического дополнения и минора, разложение определителя. Свойства определителей.
 
-![](<../.gitbook/assets/image (60).png>)
+![](<../.gitbook/assets/image (61).png>)
 
 ![](<../.gitbook/assets/image (96).png>)
 
 ![](<../.gitbook/assets/image (45).png>)
 
-![](<../.gitbook/assets/image (97).png>)
+![](<../.gitbook/assets/image (98).png>)
 
 ### Практика. Задачи
 
-![](<../.gitbook/assets/image (98).png>)
+![](<../.gitbook/assets/image (99).png>)
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (32).png>)
 
 ![](<../.gitbook/assets/image (68).png>)
 
